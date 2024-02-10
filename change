@@ -1,5 +1,8 @@
 i am change state
 This change is in main branch..............
 this is commit 1.
+<<<<<<< HEAD
 this is commit 2.
 this is commit 3.
+=======
+>>>>>>> parent of 2f7f956 (commit2)
